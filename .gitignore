@@ -1,2 +1,6 @@
 .ignore
 *.log
+/new/     
+# to untrack or ignore outer new/ folder only
+tttt/
+# to untrack or ignore all tttt/ folders
